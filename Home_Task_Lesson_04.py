@@ -30,6 +30,7 @@ def print_square(lines, *args):
     else:
         print_square(lines + 1)
 
+
 print_square(1)
 
 
